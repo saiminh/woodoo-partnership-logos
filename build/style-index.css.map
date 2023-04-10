@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://woodoo-partnership-logos/./src/style.scss"],"sourcesContent":[".has-contrast-background-color .wp-block-create-block-woodoo-partner-logos {\n  filter: invert(1);\n}"],"names":[],"sourceRoot":""}

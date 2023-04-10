@@ -1,0 +1,31 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.post-type-partners .wp-block-post-content {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: var(--wp--preset--color--contrast);
+  color: var(--wp--preset--color--base);
+}
+.post-type-partners .wp-block-post-content .wp-block-create-block-woodoo-partner-logos > div {
+  max-width: calc(100% - var(--wp--preset--spacing--outer));
+  margin-left: auto;
+  margin-right: auto;
+}
+.post-type-partners .wp-block-post-content .components-placeholder__preview {
+  width: 100%;
+}
+.post-type-partners .wp-block-post-content .previewimg {
+  min-width: 200px;
+  max-width: 100%;
+  height: auto;
+  margin: 2em auto;
+}
+
+/*# sourceMappingURL=index.css.map*/
